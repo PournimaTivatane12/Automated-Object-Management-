@@ -1,4 +1,7 @@
 # Automated-Object-Management
+# Architecture 
+<img width="870" height="571" alt="image" src="https://github.com/user-attachments/assets/a7d0af47-2794-43a4-9e78-e822736c4b97" />
+
  This project leverages cron jobs to handle automated deletion tasks, ensuring efficient resource management while reducing manual intervention.
 
 1. Automates Resource Cleanup
